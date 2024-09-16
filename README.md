@@ -1,1 +1,1 @@
-# RizzzWebsite.github-io
+# RizzzWebsite.github.io
